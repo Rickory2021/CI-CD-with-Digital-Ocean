@@ -1,15 +1,8 @@
 name: Constant Integration and Constant Deployment
 on:
-  label:
-    types:
-      - created
   push:
   create:
   delete:
-  deployment:
-  fork:
-  merge_group:
-  pull_request:
   
 jobs:
   build:
