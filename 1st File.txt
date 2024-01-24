@@ -1,1 +1,2 @@
 Commit after reboot
+Commit after Authorize
