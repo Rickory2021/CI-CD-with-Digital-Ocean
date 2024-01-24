@@ -1,2 +1,2 @@
-Commit after reboot
-Commit after Authorize
+Commit after (CHANGED) reboot
+Commit after (CHANGED) Authorize
