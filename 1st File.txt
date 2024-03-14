@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Commit after (CHANGED) reboot
 Work from 8-new-feature-to-do
+=======
+New Main Commit
+>>>>>>> master
 Commit after (CHANGED) Authorize
+New Main Commit 
