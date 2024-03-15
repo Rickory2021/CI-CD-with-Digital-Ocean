@@ -1,1 +1,2 @@
-Reset by Main
+Reset by Main 
+New Commit from 10-new-feature-issue
