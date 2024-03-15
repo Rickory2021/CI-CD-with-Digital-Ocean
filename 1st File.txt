@@ -1,6 +1,2 @@
-Commit after (CHANGED) reboot
-Work from 8-new-feature-to-do
-New Main Commit
-Commit after (CHANGED) Authorize
-New Main Commit 
+Reset by Main 
 New Commit from 10-new-feature-issue
